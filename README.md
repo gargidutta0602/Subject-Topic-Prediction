@@ -1,6 +1,4 @@
 # Subject-Topic-Prediction
-Company inroduction
-
 <!DOCTYPE html>
 <html>
 <head>
